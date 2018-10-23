@@ -1,0 +1,14 @@
+admin.nodeInfo
+personal.lisAccounts()
+personal.listAccounts()
+personal.listAccounts
+admin.peers
+admin.addPeer("enode://5aaa4ee5fed1593fcfeab439d4376cee04e53ea5ad1019d7f7210f6170fdfa05c3dda8d1f3465a7049aa5f6e12a1412e656e4885162d04b03573937cfa001e96@127.0.0.1:30303?discport=0")
+admin.peers
+miner.start(1)
+miner.stop()
+eth.blockNumber()
+eth.blockNumber
+miner.start(1)
+miner.stop()
+eth.blockNumber

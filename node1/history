@@ -1,0 +1,11 @@
+admin.nodeInfo
+admin.
+personal.listAccounts
+admin.nodeInfo
+admin.peers
+admin.nodeInfo
+admin.peers
+miner.start()
+miner.stop()
+eth.blockNumber
+git status
